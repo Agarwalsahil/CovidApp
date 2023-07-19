@@ -40,11 +40,11 @@ List the ready features here:
 
 
 ## Screenshots
-<a href="https://ibb.co/cyLY3fG"><img src="https://i.ibb.co/qD5Jjqt/Screenshot-2022-11-07-15-12-14-38-aae1839bb9e882b76e8f7a913d1cab65.jpg" alt="Screenshot-2022-11-07-15-12-14-38-aae1839bb9e882b76e8f7a913d1cab65" border="0" width=250 height=550></a>
-<a href="https://ibb.co/t8rXWSw"><img src="https://i.ibb.co/yWjSbDm/Screenshot-2022-11-07-15-12-29-94-aae1839bb9e882b76e8f7a913d1cab65.jpg" alt="Screenshot-2022-11-07-15-12-29-94-aae1839bb9e882b76e8f7a913d1cab65" border="0" width=250 height=550></a>
-<a href="https://ibb.co/gt8T7w6"><img src="https://i.ibb.co/HGyz2YX/Screenshot-2022-11-07-15-12-50-76-aae1839bb9e882b76e8f7a913d1cab65.jpg" alt="Screenshot-2022-11-07-15-12-50-76-aae1839bb9e882b76e8f7a913d1cab65" border="0" width=250 height=550></a>
-<a href="https://ibb.co/PjT8TVb"><img src="https://i.ibb.co/V9H8Hkh/Screenshot-2022-11-07-15-13-02-67-aae1839bb9e882b76e8f7a913d1cab65.jpg" alt="Screenshot-2022-11-07-15-13-02-67-aae1839bb9e882b76e8f7a913d1cab65" border="0" width=250 height=550></a>
-<a href="https://ibb.co/Bj9T0gR"><img src="https://i.ibb.co/vmSL0J8/Screenshot-2022-11-07-15-13-14-83-aae1839bb9e882b76e8f7a913d1cab65.jpg" alt="Screenshot-2022-11-07-15-13-14-83-aae1839bb9e882b76e8f7a913d1cab65" border="0" width=250 height=550></a>
+<a href="https://ibb.co/5sZCC93"><img src="https://i.ibb.co/ss7ccP4/dashboard.jpg" alt="dashboard" border="0" width=250 height=550></a>
+<a href="https://ibb.co/71LZq69"><img src="https://i.ibb.co/87tfHSh/login-signup.jpg" alt="login-signup" border="0" width=250 height=550></a>
+<a href="https://ibb.co/tZM3t5p"><img src="https://i.ibb.co/2875QB3/static-page.jpg" alt="static-page" border="0" width=250 height=550></a>
+<a href="https://ibb.co/fxwqVzt"><img src="https://i.ibb.co/kSC5Vs0/stats.jpg" alt="stats" border="0" width=250 height=550></a>
+<a href="https://ibb.co/sRs302q"><img src="https://i.ibb.co/c32TG1Q/temp.jpg" alt="temp" border="0" width=250 height=550></a>
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
